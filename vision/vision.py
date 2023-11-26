@@ -5,14 +5,6 @@ from transformers import TrOCRProcessor, VisionEncoderDecoderModel
 
 
 def detect_license_plate(image_path: str, save_crops=False, save_dir="/tmp/crops") -> Image.Image:
-    """
-    Detect license plate from image_path
-    :param image_path: image_path path
-    :param save_crops: save crops to filesystem
-    :param save_dir: directory to save crops
-    :rtype: :py:class:`~PIL.Image.Image`
-    :returns: An :py:class:`~PIL.Image.Image` object.
-    """
     # load model
     model = yolov5.load('keremberke/yolov5n-license-plate')
 
