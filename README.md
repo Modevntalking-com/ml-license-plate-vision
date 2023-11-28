@@ -53,3 +53,7 @@ Which will be processed - the license plate will be detected, cropped, enhanced 
 
 ## Summary
 The blog post about this project is available at [https://modevntalking.com/2023/11/23/ai-ml-vision-license-plate-recognition/](https://modevntalking.com/2023/11/23/ai-ml-vision-license-plate-recognition//).
+
+You can also check the youtube video
+
+[![check youtube video!](https://img.youtube.com/vi/6u9GRzG2wkE/0.jpg)]([https://www.youtube.com/watch?v=6u9GRzG2wkE](https://www.youtube.com/watch?v=6u9GRzG2wkE)https://www.youtube.com/watch?v=6u9GRzG2wkE)
